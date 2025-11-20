@@ -1,0 +1,16 @@
+*{
+    font-family:'Stack Sans Notch';
+    font-family:'Mulish';
+    font-family:'Roboto Mono';
+    font-family:'Roboto Slab';
+}
+img {
+    width: 500px;
+    width: 500px;
+    width: 500px;
+}
+body {
+    text-align:center;
+    background-color:forestgreen;
+    color: black;
+}
